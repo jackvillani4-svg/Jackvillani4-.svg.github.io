@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 40px 20px;
     line-height: 1.6;
+    font-size: 12px;
 }
 
 .container {
@@ -21,27 +22,28 @@ nav a {
     color: #0000EE;
     text-decoration: underline;
     margin-right: 15px;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 nav a:hover {
     color: #551A8B;
+    font-size: 12px;
 }
 
 h1 {
-    font-size: 18px;
     font-weight: normal;
     margin: 20px 0 10px 0;
 }
 
 p {
     margin: 5px 0;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 a {
     color: #0000EE;
     text-decoration: underline;
+    font-size: 12px;
 }
 
 a:visited {
